@@ -1,4 +1,5 @@
 .Rhistory
+.DS_Store
 *.csv
 clean_combine.py
 clean_combine_wo_persons.py
