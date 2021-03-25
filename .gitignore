@@ -1,0 +1,9 @@
+.Rhistory
+*.csv
+clean_combine.py
+clean_combine_wo_persons.py
+clean_wo_persons.py
+stylo_config.txt
+table_with_frequencies.txt
+wordlist.txt
+*_wo_persons/
